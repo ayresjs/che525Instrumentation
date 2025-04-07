@@ -1,6 +1,6 @@
 ![RHIT Logo](https://raw.githubusercontent.com/henthornlab/che525Instrumentation/refs/heads/main/rhit-logo-wide.png)
 
-#**CHE525 Equipment Installation Summary**
+# **CHE525 Equipment Installation Summary**
 
 ---
 
